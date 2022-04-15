@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Phạm Văn Đạt</h1>
-<h3 align="center">A passionate Softwave Engineer from Vietnamese</h3>
+# Hi 👋, I'm Phạm Văn Đạt
+- A passionate Softwave Engineer from Vietnamese
 
 - 📫 How to reach me **phamada2803@gmail.com**
 ---
