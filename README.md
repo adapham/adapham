@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59078796/163580550-d8414ac0-f31e-49ba-9109-ae33f2d432a9.png" />
+<p align="center" >
+  <img height="500" src="https://i.imgur.com/MvMxQ1a.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Phạm Văn Đạt</h1>
 <h3 align="center">A passionate Softwave Engineer from Vietnamese</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adapham&label=Profile%20views&color=0e75b6&style=flat" alt="adapham" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adapham" alt="adapham" /></a> </p>
 
 - 📫 How to reach me **phamada2803@gmail.com**
@@ -15,7 +12,6 @@
 <a href="https://fb.com/fb.com/phamada2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.com/phamada2803" height="30" width="40" /></a>
 <a href="https://discord.gg/4182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4182" height="30" width="40" /></a>
 </p>
-![image](https://user-images.githubusercontent.com/59078796/163580597-f4da03cc-4939-49c4-98af-4efce7e2b8a9.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
