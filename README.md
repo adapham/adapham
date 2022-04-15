@@ -1,5 +1,5 @@
 <p align="center" >
-  <img height="500" src="https://i.imgur.com/MvMxQ1a.gif" />
+  <img height="200" src="https://i.imgur.com/MvMxQ1a.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Phạm Văn Đạt</h1>
 <h3 align="center">A passionate Softwave Engineer from Vietnamese</h3>
